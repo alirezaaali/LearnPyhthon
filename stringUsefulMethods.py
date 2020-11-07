@@ -37,4 +37,3 @@ print('Scape character is backslash \"\\"')
 print('We are the so-called \"Vikings\" from the north.')
 print('-------------------------')
 print('This is new line \n \t which followed by tab and backspace')
-

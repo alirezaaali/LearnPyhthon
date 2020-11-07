@@ -1,5 +1,5 @@
 '''
-Here is some useful string methods
+Here is some useful methods
 You can find more information in
 https://www.w3schools.com/python/python_dictionaries.asp
 same as list but only changes here
