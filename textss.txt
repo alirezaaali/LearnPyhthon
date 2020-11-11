@@ -1,0 +1,3 @@
+this is my first simple file operation in python
+ , which is agreat experience.
+ I hope I learn more about: 	 Python 	 and it`s liberaries.

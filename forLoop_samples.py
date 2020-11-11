@@ -2,6 +2,7 @@
 Here is some useful  methods
 You can find more information in
 https://www.w3schools.com/python/python_for_loops.asp
+
 '''
 
 # Note that range(6) is not the values of 0 to 6, but the values 0 to 5.
