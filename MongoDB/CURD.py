@@ -5,6 +5,9 @@ import pymongo
 myClinet = pymongo.MongoClient("mongodb://localhost:27017/")
 mydb = myClinet["mydatabase"]
 myDbList = myClinet.list_database_names()
+print(myDbList)
+
+
 if "mydatabase" in myDbList:
     print("mydatabase is exists in DB List")
 else:
