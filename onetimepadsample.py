@@ -22,4 +22,3 @@ decryptedMsg = onetimepad.decrypt(cipher, inputKey)
 print("Message is: ", decryptedMsg)
 
 
-
